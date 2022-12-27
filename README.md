@@ -1,6 +1,6 @@
 Hi, I’m Lasse 🤓 🇩🇰
 
-Not a whole lot of interesting stuff here, *yet*. I work with infrastructure architecture around Linux and open source as well as site reliability engineering.
+Not a whole lot of interesting stuff here, *yet*. I work with infrastructure architecture and site reliability engineering, primarily around Linux and open source.
 
 
 A lot of my commits are currently in private repos due to them being customer projects, meaning I don't own the rights to the code and thus cannot publish it in public.
